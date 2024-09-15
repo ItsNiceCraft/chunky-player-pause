@@ -1,5 +1,5 @@
 # Chunky Player Pause
-<a href="https://modrinth.com/datapack/simple-night-vision">
+<a href="https://modrinth.com/datapack/chunky-player-pause">
  <img alt="modrinth" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg">
 </a>
 
