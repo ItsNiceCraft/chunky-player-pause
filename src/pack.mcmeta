@@ -2,7 +2,7 @@
   "pack": {
     "pack_format": 57,
     "supported_formats": {
-      "min_inclusive": 4,
+      "min_inclusive": 57,
       "max_inclusive": 250
     },
     "description": "Pause chunk generation when players are online"
